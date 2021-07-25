@@ -1,4 +1,5 @@
 """Main file, intended to be launched."""
+"""Modification test                  """
 
 __version__ = "under developpement"
 
